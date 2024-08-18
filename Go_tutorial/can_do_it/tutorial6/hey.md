@@ -1,0 +1,1 @@
+All `maps`,`struct`,`arr`,`slices` in golang uses comma to separate fields and values except `interface`
